@@ -47,3 +47,6 @@ std::cout << "I like In-N-Out";
 - [ ] Go climbing
 - [ ] Eat dinner
 - [ ] Work on scholarship application essay
+
+![Look at this dog](https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg)
+![Cat](https://images.pexels.com/photos/774731/pexels-photo-774731.jpeg)
